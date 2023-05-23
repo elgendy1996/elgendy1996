@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @elgendy1996
 - 👀 I’m interested in Mobile Apps development.
-- 🌱 I’m currently learning Ionic Angular.
 - 💞️ I’m looking to collaborate on projects with positive impact.
 - 📫 How to reach me mo.elgendy1996@gmail.com.
 
