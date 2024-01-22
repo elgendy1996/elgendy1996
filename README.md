@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elgendy1996
-- 👀 I’m interested in Mobile Apps development.
+- 👀 I’m interested in Mobile Apps and Web development.
 - 💞️ I’m looking to collaborate on projects with positive impact.
 - 📫 How to reach me mo.elgendy1996@gmail.com.
 
